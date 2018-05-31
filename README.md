@@ -11,6 +11,4 @@ turn into bookmarklet (or html anchor that's draggable):
 
 copy output to a bookmark
 
-open a Clubhouse Card and run the bookmarklet.
-
 voilà
