@@ -8,8 +8,3 @@ $link = "<a href=\"$wrapped\">bookmarklet</a>";
 
 print "javascript:($minified)()\n\n";
 print "$link\n\n";
-
-# $outfile = 'bookmarklet.min.js';
-# open (FILE, ">$outfile") || die "problem opening $outfile\n";
-# print FILE "$wrapped\n";
-# close(FILE);
