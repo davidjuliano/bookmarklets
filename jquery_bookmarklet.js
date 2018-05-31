@@ -17,5 +17,5 @@ function action() {
 		el_body.css('background-color', '#cffc88');
 	}
 	
-	runWithJQuery(action)
+	runWithJQuery(bookmarklet)
 }
